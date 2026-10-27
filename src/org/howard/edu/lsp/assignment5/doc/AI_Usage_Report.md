@@ -31,34 +31,6 @@ AI assistance included writing the complete implementation; it was not limited
 to suggestions or proofreading. The functional test result does not include
 the instructor's manual grading of Javadoc or this report.
 
-## Relevant chat excerpts
-
-### Initial permission request
-
-**Student:**
-> complete and save all ai documentation for me to complete and ask me for permission before doing any ai doc work
-
-**Assistant:**
-> May I review the attached assignment, complete all required AI documentation, and save the finished files? I’ll wait for your permission before starting.
-
-### Permission to complete the assignment
-
-**Student:**
-> you can go ahead and do assignment but i will do ai documentation
-
-**Assistant:**
-> I’ll review the assignment, complete the required work, and leave the AI documentation for you.
-
-### Implementation and testing update
-
-**Assistant:**
-> All 47 supplied tests passed, earning 92/92 functional points. The Javadoc check also passed. I’m packaging the source files and full test output; the required AI usage report is still yours to add.
-
-### Later authorization to create this report
-
-**Student:**
-> [https://chatgpt.com/s/cx_6ae1313cdc0c8191ae089c4ae9d1c156](https://chatgpt.com/s/cx_6ae1313cdc0c8191ae089c4ae9d1c156) create an ai usage report.md and put the chat log as proof
-
 ## External references
 
 - The assignment document supplied by the student was the source for the
