@@ -1,0 +1,3 @@
+# CRC collaboration and borrowing limit
+
+I made Library collaborate with Book because its CRC responsibilities include maintaining the collection, finding books, and coordinating borrowing and returning. Book owns its information and availability, so Library delegates each state change to Book instead of changing its fields directly. Book does not need to know about Library because its CRC responsibilities concern one book, and it can validate borrowing and returning even when used on its own. I placed the three-book limit in Library because enforcing it requires knowing how many books are borrowed across the collection, which is part of Library's responsibilities rather than an individual Book's responsibilities.
