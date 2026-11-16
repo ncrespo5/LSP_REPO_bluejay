@@ -2,4 +2,13 @@
 
 Course repository for CSCI 363 — Large Scale Programming.
 
-Assignment 1 is located in [`src/org/howard/edu/lsp/assignment1`](src/org/howard/edu/lsp/assignment1).
+## Assignments
+
+- [Assignment 1](src/org/howard/edu/lsp/assignment1)
+- [Assignment 2](src/org/howard/edu/lsp/assignment2)
+- [Assignment 5](src/org/howard/edu/lsp/assignment5)
+- [Assignment 6](src/org/howard/edu/lsp/assignment6)
+
+## Midterm
+
+- [Midterm](src/org/howard/edu/lsp/midterm)
